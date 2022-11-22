@@ -4,8 +4,8 @@
     <display-name lang="es">Canal AMC</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal Animal Planet (México)">
-    <display-name lang="es">Canal Animal Planet (México)</display-name>
+  <channel id="Animal Planet">
+    <display-name lang="es">Animal Planet</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal AXN (México)">
