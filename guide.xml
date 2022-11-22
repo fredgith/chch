@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-  <channel id="Canal AMC">
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv source-info-name="Schedules Direct" generator-info-name="mc2xml" generator-info-url="mailto:mc2xml@gmail.com">
+<channel id="Canal AMC">
     <display-name lang="es">Canal AMC</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
