@@ -1,0 +1,1544 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal AMC (México)">
+    <display-name lang="es">Canal AMC (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Animal Planet (México)">
+    <display-name lang="es">Canal Animal Planet (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AXN (México)">
+    <display-name lang="es">Canal AXN (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinemax (México)">
+    <display-name lang="es">Canal Cinemax (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery Channel (México)">
+    <display-name lang="es">Canal Discovery Channel (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery en Español">
+    <display-name lang="es">Canal Discovery en Español</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery Kids (México)">
+    <display-name lang="es">Canal Discovery Kids (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery Science (Latinoamérica)">
+    <display-name lang="es">Canal Discovery Science (Latinoamérica)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Disney Channel">
+    <display-name lang="es">Canal Disney Channel</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ESPN+ Latinoamérica">
+    <display-name lang="es">Canal ESPN+ Latinoamérica</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ESPN 2">
+    <display-name lang="es">Canal ESPN 2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ESPN 3 (Sur)">
+    <display-name lang="es">Canal ESPN 3 (Sur)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Sports (Cono Sur)">
+    <display-name lang="es">Canal Fox Sports (Cono Sur)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Sports 2 (Cono Sur)">
+    <display-name lang="es">Canal Fox Sports 2 (Cono Sur)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Sports 3 (Cono Sur)">
+    <display-name lang="es">Canal Fox Sports 3 (Cono Sur)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal FX (México)">
+    <display-name lang="es">Canal FX (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal History (México)">
+    <display-name lang="es">Canal History (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal History en Español">
+    <display-name lang="es">Canal History en Español</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal National Geographic (México)">
+    <display-name lang="es">Canal National Geographic (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Warner TV (México)">
+    <display-name lang="es">Canal Warner TV (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20221121012500 -0600" stop="20221121023000 -0600" channel="Canal AMC (México)">
+    <title lang="es">Leonardo</title>
+  </programme>
+  <programme start="20221121023000 -0600" stop="20221121042000 -0600" channel="Canal AMC (México)">
+    <title lang="es">Los indestructibles 2</title>
+  </programme>
+  <programme start="20221121042000 -0600" stop="20221121052000 -0600" channel="Canal AMC (México)">
+    <title lang="es">Infiniti</title>
+  </programme>
+  <programme start="20221121052000 -0600" stop="20221121063000 -0600" channel="Canal AMC (México)">
+    <title lang="es">Infiniti</title>
+  </programme>
+  <programme start="20221121063000 -0600" stop="20221121080000 -0600" channel="Canal AMC (México)">
+    <title lang="es">7500</title>
+  </programme>
+  <programme start="20221121080000 -0600" stop="20221121083000 -0600" channel="Canal AMC (México)">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20221121083000 -0600" stop="20221121090000 -0600" channel="Canal AMC (México)">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20221121090000 -0600" stop="20221121093000 -0600" channel="Canal AMC (México)">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20221121093000 -0600" stop="20221121100000 -0600" channel="Canal AMC (México)">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20221121100000 -0600" stop="20221121103000 -0600" channel="Canal AMC (México)">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20221121103000 -0600" stop="20221121110000 -0600" channel="Canal AMC (México)">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20221121110000 -0600" stop="20221121132500 -0600" channel="Canal AMC (México)">
+    <title lang="es">El niño y el fugitivo</title>
+  </programme>
+  <programme start="20221121132500 -0600" stop="20221121151500 -0600" channel="Canal AMC (México)">
+    <title lang="es">Misión secreta</title>
+  </programme>
+  <programme start="20221121151500 -0600" stop="20221121171000 -0600" channel="Canal AMC (México)">
+    <title lang="es">Vidas criminales</title>
+  </programme>
+  <programme start="20221121171000 -0600" stop="20221121181000 -0600" channel="Canal AMC (México)">
+    <title lang="es">La Fortuna</title>
+  </programme>
+  <programme start="20221121181000 -0600" stop="20221121190000 -0600" channel="Canal AMC (México)">
+    <title lang="es">La Fortuna</title>
+  </programme>
+  <programme start="20221121190000 -0600" stop="20221121200000 -0600" channel="Canal AMC (México)">
+    <title lang="es">La Fortuna</title>
+  </programme>
+  <programme start="20221121200000 -0600" stop="20221121210500 -0600" channel="Canal AMC (México)">
+    <title lang="es">La Fortuna</title>
+  </programme>
+  <programme start="20221121210500 -0600" stop="20221121220500 -0600" channel="Canal AMC (México)">
+    <title lang="es">La Fortuna</title>
+  </programme>
+  <programme start="20221121220500 -0600" stop="20221121230000 -0600" channel="Canal AMC (México)">
+    <title lang="es">La Fortuna</title>
+  </programme>
+  <programme start="20221121230000 -0600" stop="20221122004500 -0600" channel="Canal AMC (México)">
+    <title lang="es">El hijo de nadie</title>
+  </programme>
+  <programme start="20221121001400 -0600" stop="20221121010400 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Supervivencia Salvaje</title>
+  </programme>
+  <programme start="20221121010400 -0600" stop="20221121015600 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">ABC canino</title>
+  </programme>
+  <programme start="20221121015600 -0600" stop="20221121024800 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Dr. Jeff, veterinario</title>
+  </programme>
+  <programme start="20221121024800 -0600" stop="20221121033800 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Veterinarios de Texas</title>
+  </programme>
+  <programme start="20221121033800 -0600" stop="20221121042900 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Los Irwin</title>
+  </programme>
+  <programme start="20221121042900 -0600" stop="20221121052000 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Refugio en el granero</title>
+  </programme>
+  <programme start="20221121052000 -0600" stop="20221121061000 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">El zoológico del Bronx detrá</title>
+  </programme>
+  <programme start="20221121061000 -0600" stop="20221121070000 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Dr. Jeff, veterinario</title>
+  </programme>
+  <programme start="20221121070000 -0600" stop="20221121072400 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Los reyes de las piscinas</title>
+  </programme>
+  <programme start="20221121072400 -0600" stop="20221121075000 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Noche</title>
+  </programme>
+  <programme start="20221121075000 -0600" stop="20221121084300 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Dr. Jeff, veterinario</title>
+  </programme>
+  <programme start="20221121084300 -0600" stop="20221121093600 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Veterinarios de Texas</title>
+  </programme>
+  <programme start="20221121093600 -0600" stop="20221121102900 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Guaridas con estilo</title>
+  </programme>
+  <programme start="20221121102900 -0600" stop="20221121111900 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Invasores</title>
+  </programme>
+  <programme start="20221121111900 -0600" stop="20221121121100 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Islas mortales con Dave Salmo</title>
+  </programme>
+  <programme start="20221121121100 -0600" stop="20221121130300 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Pescadores al límite</title>
+  </programme>
+  <programme start="20221121130300 -0600" stop="20221121134900 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Sasquatch La leyenda de</title>
+  </programme>
+  <programme start="20221121134900 -0600" stop="20221121141600 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Noche</title>
+  </programme>
+  <programme start="20221121141600 -0600" stop="20221121144300 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Noche</title>
+  </programme>
+  <programme start="20221121144300 -0600" stop="20221121153700 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20221121153700 -0600" stop="20221121163000 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">El zoológico del Bronx</title>
+  </programme>
+  <programme start="20221121163000 -0600" stop="20221121190300 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Encuentros con monstruos</title>
+  </programme>
+  <programme start="20221121190300 -0600" stop="20221121195300 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Wild Frank</title>
+  </programme>
+  <programme start="20221121195300 -0600" stop="20221121204500 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Con el agua al cuello</title>
+  </programme>
+  <programme start="20221121204500 -0600" stop="20221121213700 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Veterinarios de Texas</title>
+  </programme>
+  <programme start="20221121213700 -0600" stop="20221121222900 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Dr. Jeff, veterinario</title>
+  </programme>
+  <programme start="20221121222900 -0600" stop="20221121232100 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Dra. Dee Veterinaria de Alas</title>
+  </programme>
+  <programme start="20221121232100 -0600" stop="20221122001300 -0600" channel="Canal Animal Planet (México)">
+    <title lang="es">Pit bulls y convictos</title>
+  </programme>
+  <programme start="20221121004500 -0600" stop="20221121014000 -0600" channel="Canal AXN (México)">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20221121014000 -0600" stop="20221121023500 -0600" channel="Canal AXN (México)">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20221121023500 -0600" stop="20221121033000 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20221121033000 -0600" stop="20221121042500 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20221121042500 -0600" stop="20221121052000 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20221121052000 -0600" stop="20221121061000 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20221121061000 -0600" stop="20221121070000 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20221121070000 -0600" stop="20221121075000 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20221121075000 -0600" stop="20221121084000 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20221121084000 -0600" stop="20221121093000 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20221121093000 -0600" stop="20221121102000 -0600" channel="Canal AXN (México)">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20221121102000 -0600" stop="20221121111000 -0600" channel="Canal AXN (México)">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20221121111000 -0600" stop="20221121120000 -0600" channel="Canal AXN (México)">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20221121120000 -0600" stop="20221121125000 -0600" channel="Canal AXN (México)">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20221121125000 -0600" stop="20221121134500 -0600" channel="Canal AXN (México)">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20221121134500 -0600" stop="20221121144000 -0600" channel="Canal AXN (México)">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20221121144000 -0600" stop="20221121153500 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20221121153500 -0600" stop="20221121163000 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20221121163000 -0600" stop="20221121172500 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20221121172500 -0600" stop="20221121182000 -0600" channel="Canal AXN (México)">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20221121182000 -0600" stop="20221121191500 -0600" channel="Canal AXN (México)">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20221121191500 -0600" stop="20221121201000 -0600" channel="Canal AXN (México)">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20221121201000 -0600" stop="20221121210500 -0600" channel="Canal AXN (México)">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20221121210500 -0600" stop="20221121220000 -0600" channel="Canal AXN (México)">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20221121220000 -0600" stop="20221121230000 -0600" channel="Canal AXN (México)">
+    <title lang="es">Candice renoir</title>
+  </programme>
+  <programme start="20221121230000 -0600" stop="20221122001000 -0600" channel="Canal AXN (México)">
+    <title lang="es">Bright minds</title>
+  </programme>
+  <programme start="20221121021200 -0600" stop="20221121041200 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Dos tipos peligrosos</title>
+  </programme>
+  <programme start="20221121041200 -0600" stop="20221121054200 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Perturbadas</title>
+  </programme>
+  <programme start="20221121054200 -0600" stop="20221121070000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">El mejor amigo de un soldado</title>
+  </programme>
+  <programme start="20221121070000 -0600" stop="20221121073200 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Ace Ventura</title>
+  </programme>
+  <programme start="20221121073200 -0600" stop="20221121080300 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Autoescuela para mujeres</title>
+  </programme>
+  <programme start="20221121080300 -0600" stop="20221121094200 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Los trapos sucios se lavan</title>
+  </programme>
+  <programme start="20221121094200 -0600" stop="20221121114800 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">42</title>
+  </programme>
+  <programme start="20221121114800 -0600" stop="20221121132500 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Wallace y Gromit la batalla</title>
+  </programme>
+  <programme start="20221121132500 -0600" stop="20221121152200 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Los indestructibles 2</title>
+  </programme>
+  <programme start="20221121152200 -0600" stop="20221121175200 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">El Robo Perfecto</title>
+  </programme>
+  <programme start="20221121175200 -0600" stop="20221121200800 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Olimpo bajo fuego</title>
+  </programme>
+  <programme start="20221121200800 -0600" stop="20221121220000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Londres Bajo Fuego</title>
+  </programme>
+  <programme start="20221121220000 -0600" stop="20221121235700 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Grandes Espías</title>
+  </programme>
+  <programme start="20221121235700 -0600" stop="20221122020800 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Pacto criminal</title>
+  </programme>
+  <programme start="20221121004900 -0600" stop="20221121014200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20221121014200 -0600" stop="20221121023600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20221121023600 -0600" stop="20221121032900 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20221121032900 -0600" stop="20221121042500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Eden</title>
+  </programme>
+  <programme start="20221121042500 -0600" stop="20221121051600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Bar Rescue</title>
+  </programme>
+  <programme start="20221121051600 -0600" stop="20221121060800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Rescates culinarios con Robert</title>
+  </programme>
+  <programme start="20221121060800 -0600" stop="20221121070000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20221121070000 -0600" stop="20221121075000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Grandes misterios del univers</title>
+  </programme>
+  <programme start="20221121075000 -0600" stop="20221121084100 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20221121084100 -0600" stop="20221121093100 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Expedición a lo desconoci</title>
+  </programme>
+  <programme start="20221121093100 -0600" stop="20221121102200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20221121102200 -0600" stop="20221121111500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Monstruos de río</title>
+  </programme>
+  <programme start="20221121111500 -0600" stop="20221121120600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20221121120600 -0600" stop="20221121125700 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Fiebre del oro Freddy Dodge</title>
+  </programme>
+  <programme start="20221121125700 -0600" stop="20221121134800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Construcciones remotas</title>
+  </programme>
+  <programme start="20221121134800 -0600" stop="20221121144000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Alaska Hombres primitivo</title>
+  </programme>
+  <programme start="20221121144000 -0600" stop="20221121153200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20221121153200 -0600" stop="20221121162400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Discovery Desafío X 2 México</title>
+  </programme>
+  <programme start="20221121162400 -0600" stop="20221121171600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Expedición a lo desconoc</title>
+  </programme>
+  <programme start="20221121171600 -0600" stop="20221121180800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Sin fronteras con Ed Stafford</title>
+  </programme>
+  <programme start="20221121180800 -0600" stop="20221121190100 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20221121190100 -0600" stop="20221121195400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Todos contra Ed Stafford</title>
+  </programme>
+  <programme start="20221121195400 -0600" stop="20221121205000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Todos contra Ed Stafford</title>
+  </programme>
+  <programme start="20221121205000 -0600" stop="20221121214600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Patagonia al borde del mundo</title>
+  </programme>
+  <programme start="20221121214600 -0600" stop="20221121224500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Ríos de África</title>
+  </programme>
+  <programme start="20221121224500 -0600" stop="20221121234300 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo bajo</title>
+  </programme>
+  <programme start="20221121234300 -0600" stop="20221122003900 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20221121010000 -0600" stop="20221121020000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">El Rastro</title>
+  </programme>
+  <programme start="20221121020000 -0600" stop="20221121030000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Revista People investiga</title>
+  </programme>
+  <programme start="20221121030000 -0600" stop="20221121040000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Crímenes millonarios</title>
+  </programme>
+  <programme start="20221121040000 -0600" stop="20221121050000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">El Rastro</title>
+  </programme>
+  <programme start="20221121050000 -0600" stop="20221121053000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Aeropuerto de Sao Paulo</title>
+  </programme>
+  <programme start="20221121053000 -0600" stop="20221121060000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Aeropuerto de Sao Paulo</title>
+  </programme>
+  <programme start="20221121060000 -0600" stop="20221121070000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Fuga casi perfecta</title>
+  </programme>
+  <programme start="20221121070000 -0600" stop="20221121090000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20221121090000 -0600" stop="20221121100000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20221121100000 -0600" stop="20221121110000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20221121110000 -0600" stop="20221121120000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20221121120000 -0600" stop="20221121123000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Control de carreteras</title>
+  </programme>
+  <programme start="20221121123000 -0600" stop="20221121130000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Control de carreteras</title>
+  </programme>
+  <programme start="20221121130000 -0600" stop="20221121140000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Revista People investiga</title>
+  </programme>
+  <programme start="20221121140000 -0600" stop="20221121150000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Detalles de un Crimen</title>
+  </programme>
+  <programme start="20221121150000 -0600" stop="20221121160000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Crimen casi perfecto</title>
+  </programme>
+  <programme start="20221121160000 -0600" stop="20221121170000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Fuga casi perfecta</title>
+  </programme>
+  <programme start="20221121170000 -0600" stop="20221121180000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Red de mentiras</title>
+  </programme>
+  <programme start="20221121180000 -0600" stop="20221121190000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Revista People investiga</title>
+  </programme>
+  <programme start="20221121190000 -0600" stop="20221121200000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20221121200000 -0600" stop="20221121210000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Texas Trocas</title>
+  </programme>
+  <programme start="20221121210000 -0600" stop="20221121220000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  <programme start="20221121220000 -0600" stop="20221121230000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20221121230000 -0600" stop="20221122000000 -0600" channel="Canal Discovery en Español">
+    <title lang="es">Joyas sobre ruedas: El auto de tus sueños</title>
+  </programme>
+  <programme start="20221121001400 -0600" stop="20221121004000 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20221121004000 -0600" stop="20221121013000 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20221121013000 -0600" stop="20221121015400 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Pac-Man y las aventuras fanta</title>
+  </programme>
+  <programme start="20221121015400 -0600" stop="20221121021600 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">100% Lobo la leyenda del ani</title>
+  </programme>
+  <programme start="20221121021600 -0600" stop="20221121024000 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Mi perro Pat</title>
+  </programme>
+  <programme start="20221121024000 -0600" stop="20221121030400 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Polly Pocket</title>
+  </programme>
+  <programme start="20221121030400 -0600" stop="20221121032800 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Polly Pocket</title>
+  </programme>
+  <programme start="20221121032800 -0600" stop="20221121041400 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Mi perro Pat</title>
+  </programme>
+  <programme start="20221121041400 -0600" stop="20221121050200 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Esme y Roy</title>
+  </programme>
+  <programme start="20221121050200 -0600" stop="20221121052600 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Mi perro Pat</title>
+  </programme>
+  <programme start="20221121052600 -0600" stop="20221121055000 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Pac-Man y las aventuras fanta</title>
+  </programme>
+  <programme start="20221121055000 -0600" stop="20221121063600 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">100% Lobo la leyenda del ani</title>
+  </programme>
+  <programme start="20221121063600 -0600" stop="20221121070000 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Esme y Roy</title>
+  </programme>
+  <programme start="20221121070000 -0600" stop="20221121072700 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221121072700 -0600" stop="20221121082900 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Mi perro Pat</title>
+  </programme>
+  <programme start="20221121082900 -0600" stop="20221121085700 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Pinocho en la villa encantada</title>
+  </programme>
+  <programme start="20221121085700 -0600" stop="20221121092400 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Campamento S.M.A.S.H</title>
+  </programme>
+  <programme start="20221121092400 -0600" stop="20221121095100 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221121095100 -0600" stop="20221121101400 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221121101400 -0600" stop="20221121102900 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Héroes en la playa</title>
+  </programme>
+  <programme start="20221121102900 -0600" stop="20221121110900 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Topo Gigio</title>
+  </programme>
+  <programme start="20221121110900 -0600" stop="20221121113500 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Underdogs United</title>
+  </programme>
+  <programme start="20221121113500 -0600" stop="20221121115500 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">¡Presto! Escuela de magia</title>
+  </programme>
+  <programme start="20221121115500 -0600" stop="20221121121500 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221121121500 -0600" stop="20221121124200 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221121124200 -0600" stop="20221121130900 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221121130900 -0600" stop="20221121133700 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221121133700 -0600" stop="20221121140500 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">GhostForce</title>
+  </programme>
+  <programme start="20221121140500 -0600" stop="20221121151400 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">FriendZSpace</title>
+  </programme>
+  <programme start="20221121151400 -0600" stop="20221121154200 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Pinocho y sus amigos</title>
+  </programme>
+  <programme start="20221121154200 -0600" stop="20221121160800 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20221121160800 -0600" stop="20221121164400 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20221121164400 -0600" stop="20221121171100 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221121171100 -0600" stop="20221121173800 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221121173800 -0600" stop="20221121184300 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221121184300 -0600" stop="20221121185900 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">44 Gatos</title>
+  </programme>
+  <programme start="20221121185900 -0600" stop="20221121200400 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Kung Fu Wa</title>
+  </programme>
+  <programme start="20221121200400 -0600" stop="20221121202000 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Los Beachbuds</title>
+  </programme>
+  <programme start="20221121202000 -0600" stop="20221121204200 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20221121204200 -0600" stop="20221121210800 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20221121210800 -0600" stop="20221121212400 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">FriendZSpace</title>
+  </programme>
+  <programme start="20221121212400 -0600" stop="20221121214600 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">100% Lobo la leyenda del ani</title>
+  </programme>
+  <programme start="20221121214600 -0600" stop="20221121233500 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">GhostForce</title>
+  </programme>
+  <programme start="20221121233500 -0600" stop="20221122001300 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Mi perro Pat</title>
+  </programme>
+  <programme start="20221121002400 -0600" stop="20221121011200 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Ciencia al rescate</title>
+  </programme>
+  <programme start="20221121011200 -0600" stop="20221121020000 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">¿Quién será el más rudo</title>
+  </programme>
+  <programme start="20221121020000 -0600" stop="20221121024800 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Grandes misterios del universo con Morgan Freeman</title>
+  </programme>
+  <programme start="20221121024800 -0600" stop="20221121033600 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Grandes misterios del universo con Morgan Freeman</title>
+  </programme>
+  <programme start="20221121033600 -0600" stop="20221121042400 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">En busca del tesoro: Isla Serpientes</title>
+  </programme>
+  <programme start="20221121042400 -0600" stop="20221121044800 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Así Se Hace</title>
+  </programme>
+  <programme start="20221121044800 -0600" stop="20221121051200 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Así Se Hace</title>
+  </programme>
+  <programme start="20221121051200 -0600" stop="20221121060000 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Horror de Cálculo</title>
+  </programme>
+  <programme start="20221121060000 -0600" stop="20221121064800 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">¿Quién será el más rudo</title>
+  </programme>
+  <programme start="20221121064800 -0600" stop="20221121073600 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Grandes misterios del universo con Morgan Freeman</title>
+  </programme>
+  <programme start="20221121073600 -0600" stop="20221121082400 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Grandes misterios del universo con Morgan Freeman</title>
+  </programme>
+  <programme start="20221121082400 -0600" stop="20221121091200 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">En busca del tesoro: Isla Serpientes</title>
+  </programme>
+  <programme start="20221121091200 -0600" stop="20221121093600 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Así Se Hace</title>
+  </programme>
+  <programme start="20221121093600 -0600" stop="20221121100000 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Así Se Hace</title>
+  </programme>
+  <programme start="20221121100000 -0600" stop="20221121104800 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Horror de Cálculo</title>
+  </programme>
+  <programme start="20221121104800 -0600" stop="20221121113600 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">La Idea Ganadora</title>
+  </programme>
+  <programme start="20221121113600 -0600" stop="20221121122400 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Megaconstrucciones</title>
+  </programme>
+  <programme start="20221121122400 -0600" stop="20221121131200 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Minicazadores de mitos</title>
+  </programme>
+  <programme start="20221121131200 -0600" stop="20221121140000 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Silicon Valley: The Untold Story</title>
+  </programme>
+  <programme start="20221121140000 -0600" stop="20221121144800 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Houdini's Last Secrets</title>
+  </programme>
+  <programme start="20221121144800 -0600" stop="20221121153600 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Houdini's Last Secrets</title>
+  </programme>
+  <programme start="20221121153600 -0600" stop="20221121160000 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Así Se Hace</title>
+  </programme>
+  <programme start="20221121160000 -0600" stop="20221121162400 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Así Se Hace</title>
+  </programme>
+  <programme start="20221121162400 -0600" stop="20221121171200 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Savage Builds</title>
+  </programme>
+  <programme start="20221121171200 -0600" stop="20221121180000 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Pistoleros</title>
+  </programme>
+  <programme start="20221121180000 -0600" stop="20221121184800 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Confesiones médicas</title>
+  </programme>
+  <programme start="20221121184800 -0600" stop="20221121193600 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Richard Hammond a lo grande</title>
+  </programme>
+  <programme start="20221121193600 -0600" stop="20221121202400 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Richard Hammond a lo grande</title>
+  </programme>
+  <programme start="20221121202400 -0600" stop="20221121211200 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Richard Hammond a lo grande</title>
+  </programme>
+  <programme start="20221121211200 -0600" stop="20221121220000 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Richard Hammond a lo grande</title>
+  </programme>
+  <programme start="20221121220000 -0600" stop="20221121224800 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Richard Hammond a lo grande</title>
+  </programme>
+  <programme start="20221121224800 -0600" stop="20221121233600 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Richard Hammond a lo grande</title>
+  </programme>
+  <programme start="20221121233600 -0600" stop="20221122002400 -0600" channel="Canal Discovery Science (Latinoamérica)">
+    <title lang="es">Truth Behind the Moon Landing</title>
+  </programme>
+  <programme start="20221121003000 -0600" stop="20221121010000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20221121010000 -0600" stop="20221121013000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20221121013000 -0600" stop="20221121020000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20221121020000 -0600" stop="20221121023000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20221121023000 -0600" stop="20221121030000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+  <programme start="20221121030000 -0600" stop="20221121033000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20221121033000 -0600" stop="20221121040000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Los Hechiceros de Waverly Pla</title>
+  </programme>
+  <programme start="20221121040000 -0600" stop="20221121043000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20221121043000 -0600" stop="20221121050000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Hotel Transylvania La serie</title>
+  </programme>
+  <programme start="20221121050000 -0600" stop="20221121053000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Grandes Héroes: La Serie</title>
+  </programme>
+  <programme start="20221121053000 -0600" stop="20221121060000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20221121060000 -0600" stop="20221121063000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20221121063000 -0600" stop="20221121070000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20221121070000 -0600" stop="20221121073000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20221121073000 -0600" stop="20221121080000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20221121080000 -0600" stop="20221121083000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20221121083000 -0600" stop="20221121084500 -0600" channel="Canal Disney Channel">
+    <title lang="es">Las Aventuras de Pilar</title>
+  </programme>
+  <programme start="20221121084500 -0600" stop="20221121090000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Mickey Mouse</title>
+  </programme>
+  <programme start="20221121090000 -0600" stop="20221121093000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Patoaventuras</title>
+  </programme>
+  <programme start="20221121093000 -0600" stop="20221121094500 -0600" channel="Canal Disney Channel">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20221121094500 -0600" stop="20221121100000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20221121100000 -0600" stop="20221121103000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Amphibia</title>
+  </programme>
+  <programme start="20221121103000 -0600" stop="20221121110000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Grandes Héroes: La Serie</title>
+  </programme>
+  <programme start="20221121110000 -0600" stop="20221121111500 -0600" channel="Canal Disney Channel">
+    <title lang="es">The Ghost and Molly McGee</title>
+  </programme>
+  <programme start="20221121111500 -0600" stop="20221121113000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20221121113000 -0600" stop="20221121120000 -0600" channel="Canal Disney Channel">
+    <title lang="es">The Owl House ? La Casa Búho</title>
+  </programme>
+  <programme start="20221121120000 -0600" stop="20221121140000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Un chiflado encantador</title>
+  </programme>
+  <programme start="20221121140000 -0600" stop="20221121143000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Liv y Maddie</title>
+  </programme>
+  <programme start="20221121143000 -0600" stop="20221121150000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Programa de Talentos</title>
+  </programme>
+  <programme start="20221121150000 -0600" stop="20221121153000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Los Hechiceros de Waverly Pla</title>
+  </programme>
+  <programme start="20221121153000 -0600" stop="20221121160000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Es tan Raven</title>
+  </programme>
+  <programme start="20221121160000 -0600" stop="20221121170000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Un mágico verano en Epcot</title>
+  </programme>
+  <programme start="20221121170000 -0600" stop="20221121173000 -0600" channel="Canal Disney Channel">
+    <title lang="es">La casa de Raven</title>
+  </programme>
+  <programme start="20221121173000 -0600" stop="20221121180000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+  <programme start="20221121180000 -0600" stop="20221121183000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Secretos en Sulphur Springs T</title>
+  </programme>
+  <programme start="20221121183000 -0600" stop="20221121190000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20221121190000 -0600" stop="20221121193000 -0600" channel="Canal Disney Channel">
+    <title lang="es">El fantasma y Molly McGee</title>
+  </programme>
+  <programme start="20221121193000 -0600" stop="20221121200000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous Las aventuras de</title>
+  </programme>
+  <programme start="20221121200000 -0600" stop="20221121203000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Sydney como Max</title>
+  </programme>
+  <programme start="20221121203000 -0600" stop="20221121210000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20221121210000 -0600" stop="20221121213000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20221121213000 -0600" stop="20221121220000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20221121220000 -0600" stop="20221121223000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+  <programme start="20221121223000 -0600" stop="20221121230000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+  <programme start="20221121230000 -0600" stop="20221121233000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Holly Hobbie</title>
+  </programme>
+  <programme start="20221121233000 -0600" stop="20221122000000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20221121030000 -0600" stop="20221121060000 -0600" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">DP World Tour Championship</title>
+  </programme>
+  <programme start="20221121060000 -0600" stop="20221121090000 -0600" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">DP World Tour Championship</title>
+  </programme>
+  <programme start="20221121090000 -0600" stop="20221121120000 -0600" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">Kansas City Chiefs vs. Los Ang</title>
+  </programme>
+  <programme start="20221121120000 -0600" stop="20221121140000 -0600" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">Nitto ATP Finals</title>
+  </programme>
+  <programme start="20221121140000 -0600" stop="20221121150000 -0600" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">This Just In</title>
+  </programme>
+  <programme start="20221121150000 -0600" stop="20221121160000 -0600" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">NFL Rewind</title>
+  </programme>
+  <programme start="20221121160000 -0600" stop="20221121180000 -0600" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">NFL Live desde México</title>
+  </programme>
+  <programme start="20221121180000 -0600" stop="20221121200000 -0600" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">NFL Live desde México</title>
+  </programme>
+  <programme start="20221121200000 -0600" stop="20221121231500 -0600" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">49ers vs. Arizona</title>
+  </programme>
+  <programme start="20221121231500 -0600" stop="20221121234500 -0600" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20221121234500 -0600" stop="20221122000000 -0600" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20221121003000 -0600" stop="20221121013000 -0600" channel="Canal ESPN 2">
+    <title lang="es">ESPN F Show</title>
+  </programme>
+  <programme start="20221121013000 -0600" stop="20221121020000 -0600" channel="Canal ESPN 2">
+    <title lang="es">Lo mejor de MotoGP</title>
+  </programme>
+  <programme start="20221121020000 -0600" stop="20221121030000 -0600" channel="Canal ESPN 2">
+    <title lang="es">ESPN Compact - ATP Masters 1000 - Turin</title>
+  </programme>
+  <programme start="20221121030000 -0600" stop="20221121040000 -0600" channel="Canal ESPN 2">
+    <title lang="es">ESPN F360</title>
+  </programme>
+  <programme start="20221121040000 -0600" stop="20221121050000 -0600" channel="Canal ESPN 2">
+    <title lang="es">ESPN F Show</title>
+  </programme>
+  <programme start="20221121050000 -0600" stop="20221121053000 -0600" channel="Canal ESPN 2">
+    <title lang="es">Un Tren a Qatar</title>
+  </programme>
+  <programme start="20221121053000 -0600" stop="20221121060000 -0600" channel="Canal ESPN 2">
+    <title lang="es">Un Tren a Qatar</title>
+  </programme>
+  <programme start="20221121060000 -0600" stop="20221121080000 -0600" channel="Canal ESPN 2">
+    <title lang="es">Boxeo</title>
+  </programme>
+  <programme start="20221121080000 -0600" stop="20221121100000 -0600" channel="Canal ESPN 2">
+    <title lang="es">Tenis</title>
+  </programme>
+  <programme start="20221121100000 -0600" stop="20221121103000 -0600" channel="Canal ESPN 2">
+    <title lang="es">ATP Tour Magazine</title>
+  </programme>
+  <programme start="20221121103000 -0600" stop="20221121110000 -0600" channel="Canal ESPN 2">
+    <title lang="es">Lo mejor de MotoGP</title>
+  </programme>
+  <programme start="20221121110000 -0600" stop="20221121120000 -0600" channel="Canal ESPN 2">
+    <title lang="es">UEFA Europa &amp; Conference League Magazine</title>
+  </programme>
+  <programme start="20221121120000 -0600" stop="20221121140000 -0600" channel="Canal ESPN 2">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20221121140000 -0600" stop="20221121160000 -0600" channel="Canal ESPN 2">
+    <title lang="es">Tenis</title>
+  </programme>
+  <programme start="20221121160000 -0600" stop="20221121200000 -0600" channel="Canal ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20221121200000 -0600" stop="20221121231500 -0600" channel="Canal ESPN 2">
+    <title lang="es">Fútbol Americano de la NFL</title>
+  </programme>
+  <programme start="20221121231500 -0600" stop="20221121234200 -0600" channel="Canal ESPN 2">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20221121234200 -0600" stop="20221122001000 -0600" channel="Canal ESPN 2">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20221121020000 -0600" stop="20221121030000 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN Compact - Test Match de Los Pumas</title>
+  </programme>
+  <programme start="20221121030000 -0600" stop="20221121045500 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Tenis</title>
+  </programme>
+  <programme start="20221121045500 -0600" stop="20221121060500 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Fórmula 2</title>
+  </programme>
+  <programme start="20221121060500 -0600" stop="20221121072500 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Fórmula 2</title>
+  </programme>
+  <programme start="20221121072500 -0600" stop="20221121110000 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Fútbol Americano de la NFL</title>
+  </programme>
+  <programme start="20221121110000 -0600" stop="20221121113000 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20221121113000 -0600" stop="20221121120000 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Aguas arriba</title>
+  </programme>
+  <programme start="20221121120000 -0600" stop="20221121150000 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Golf European Tour</title>
+  </programme>
+  <programme start="20221121150000 -0600" stop="20221121153000 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20221121153000 -0600" stop="20221121160000 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20221121160000 -0600" stop="20221121163000 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20221121163000 -0600" stop="20221121170000 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ATP Tour Magazine</title>
+  </programme>
+  <programme start="20221121170000 -0600" stop="20221121180000 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">El show de la F1</title>
+  </programme>
+  <programme start="20221121180000 -0600" stop="20221121200000 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Tenis</title>
+  </programme>
+  <programme start="20221121200000 -0600" stop="20221121203000 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Un Tren a Qatar</title>
+  </programme>
+  <programme start="20221121203000 -0600" stop="20221121210000 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Un Tren a Qatar</title>
+  </programme>
+  <programme start="20221121210000 -0600" stop="20221121213000 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Un Tren a Qatar</title>
+  </programme>
+  <programme start="20221121213000 -0600" stop="20221121220000 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Un Tren a Qatar</title>
+  </programme>
+  <programme start="20221121220000 -0600" stop="20221121230000 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">World Series of Poker Main Event</title>
+  </programme>
+  <programme start="20221121230000 -0600" stop="20221122000000 -0600" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">World Series of Poker Main Event</title>
+  </programme>
+  <programme start="20221121020000 -0600" stop="20221121030000 -0600" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20221121030000 -0600" stop="20221121050000 -0600" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Baloncesto Liga ACB</title>
+  </programme>
+  <programme start="20221121050000 -0600" stop="20221121070000 -0600" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Fútbol Conmebol Libertadores</title>
+  </programme>
+  <programme start="20221121070000 -0600" stop="20221121080000 -0600" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20221121080000 -0600" stop="20221121100000 -0600" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Fútbol UEFA Champions League</title>
+  </programme>
+  <programme start="20221121100000 -0600" stop="20221121123000 -0600" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Automovilismo Fórmula 1</title>
+  </programme>
+  <programme start="20221121123000 -0600" stop="20221121153000 -0600" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">UFC Fight Night: Pettis vs. Moreno</title>
+  </programme>
+  <programme start="20221121153000 -0600" stop="20221121160000 -0600" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">El juego sagrado</title>
+  </programme>
+  <programme start="20221121160000 -0600" stop="20221121170000 -0600" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20221121170000 -0600" stop="20221121190000 -0600" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Fútbol Conmebol Libertadores</title>
+  </programme>
+  <programme start="20221121190000 -0600" stop="20221121210000 -0600" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Fútbol UEFA Champions League</title>
+  </programme>
+  <programme start="20221121210000 -0600" stop="20221121230000 -0600" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Premier Boxing Champions</title>
+  </programme>
+  <programme start="20221121230000 -0600" stop="20221122000000 -0600" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20221121030000 -0600" stop="20221121040000 -0600" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20221121040000 -0600" stop="20221121060000 -0600" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Jornada 2 Fase de grupos Flamengo vs. Talleres Córdoba</title>
+  </programme>
+  <programme start="20221121060000 -0600" stop="20221121070000 -0600" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">50 Años de Copa Libertadores</title>
+  </programme>
+  <programme start="20221121070000 -0600" stop="20221121100000 -0600" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Fútbol Americano de la NFL</title>
+  </programme>
+  <programme start="20221121100000 -0600" stop="20221121120000 -0600" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Porto vs. Club Brugge</title>
+  </programme>
+  <programme start="20221121120000 -0600" stop="20221121140000 -0600" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20221121140000 -0600" stop="20221121160000 -0600" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20221121160000 -0600" stop="20221121170000 -0600" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">50 Años de Copa Libertadores</title>
+  </programme>
+  <programme start="20221121170000 -0600" stop="20221121173000 -0600" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Momentos Eternos</title>
+  </programme>
+  <programme start="20221121173000 -0600" stop="20221121180000 -0600" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Momentos Eternos</title>
+  </programme>
+  <programme start="20221121180000 -0600" stop="20221121190000 -0600" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+  <programme start="20221121190000 -0600" stop="20221121200000 -0600" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20221121200000 -0600" stop="20221121230000 -0600" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20221121230000 -0600" stop="20221122000000 -0600" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20221121020000 -0600" stop="20221121023000 -0600" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Momentos Eternos</title>
+  </programme>
+  <programme start="20221121023000 -0600" stop="20221121030000 -0600" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Momentos Eternos</title>
+  </programme>
+  <programme start="20221121030000 -0600" stop="20221121040000 -0600" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+  <programme start="20221121040000 -0600" stop="20221121070000 -0600" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fútbol Americano de la NFL</title>
+  </programme>
+  <programme start="20221121070000 -0600" stop="20221121080000 -0600" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20221121080000 -0600" stop="20221121090000 -0600" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">50 Años de Copa Libertadores</title>
+  </programme>
+  <programme start="20221121090000 -0600" stop="20221121110000 -0600" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20221121110000 -0600" stop="20221121140000 -0600" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fútbol Americano de la NFL</title>
+  </programme>
+  <programme start="20221121140000 -0600" stop="20221121160000 -0600" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Jornada 2 Fase de grupos Flamengo vs. Talleres Córdoba</title>
+  </programme>
+  <programme start="20221121160000 -0600" stop="20221121170000 -0600" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20221121170000 -0600" stop="20221121180000 -0600" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+  <programme start="20221121180000 -0600" stop="20221121200000 -0600" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20221121200000 -0600" stop="20221121220000 -0600" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Porto vs. Club Brugge</title>
+  </programme>
+  <programme start="20221121220000 -0600" stop="20221121223000 -0600" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Momentos Eternos</title>
+  </programme>
+  <programme start="20221121223000 -0600" stop="20221121230000 -0600" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Momentos Eternos</title>
+  </programme>
+  <programme start="20221121230000 -0600" stop="20221122020000 -0600" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20221121005800 -0600" stop="20221121034100 -0600" channel="Canal FX (México)">
+    <title lang="es">La Cura Siniestra</title>
+  </programme>
+  <programme start="20221121034100 -0600" stop="20221121053800 -0600" channel="Canal FX (México)">
+    <title lang="es">Los descendientes</title>
+  </programme>
+  <programme start="20221121053800 -0600" stop="20221121080000 -0600" channel="Canal FX (México)">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20221121080000 -0600" stop="20221121094300 -0600" channel="Canal FX (México)">
+    <title lang="es">Todas las Canciones de Amor</title>
+  </programme>
+  <programme start="20221121094300 -0600" stop="20221121115100 -0600" channel="Canal FX (México)">
+    <title lang="es">El exótico Hotel Marigold</title>
+  </programme>
+  <programme start="20221121115100 -0600" stop="20221121124100 -0600" channel="Canal FX (México)">
+    <title lang="es">The amazing race</title>
+  </programme>
+  <programme start="20221121124100 -0600" stop="20221121132900 -0600" channel="Canal FX (México)">
+    <title lang="es">The amazing race</title>
+  </programme>
+  <programme start="20221121132900 -0600" stop="20221121141600 -0600" channel="Canal FX (México)">
+    <title lang="es">The amazing race</title>
+  </programme>
+  <programme start="20221121141600 -0600" stop="20221121160300 -0600" channel="Canal FX (México)">
+    <title lang="es">Guerra De Papás</title>
+  </programme>
+  <programme start="20221121160300 -0600" stop="20221121180800 -0600" channel="Canal FX (México)">
+    <title lang="es">Terminator 3 La Rebelión</title>
+  </programme>
+  <programme start="20221121180800 -0600" stop="20221121203000 -0600" channel="Canal FX (México)">
+    <title lang="es">Impacto profundo</title>
+  </programme>
+  <programme start="20221121203000 -0600" stop="20221121230000 -0600" channel="Canal FX (México)">
+    <title lang="es">Gigantes de Acero</title>
+  </programme>
+  <programme start="20221121230000 -0600" stop="20221122011700 -0600" channel="Canal FX (México)">
+    <title lang="es">Una aventura extraordinaria</title>
+  </programme>
+  <programme start="20221121003100 -0600" stop="20221121012100 -0600" channel="Canal History (México)">
+    <title lang="es">Lo mejor precio de la historia</title>
+  </programme>
+  <programme start="20221121012100 -0600" stop="20221121014900 -0600" channel="Canal History (México)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20221121014900 -0600" stop="20221121024400 -0600" channel="Canal History (México)">
+    <title lang="es">Los Secretos de la Biblia</title>
+  </programme>
+  <programme start="20221121024400 -0600" stop="20221121033800 -0600" channel="Canal History (México)">
+    <title lang="es">Los Secretos de la Biblia</title>
+  </programme>
+  <programme start="20221121033800 -0600" stop="20221121042900 -0600" channel="Canal History (México)">
+    <title lang="es">Competencia en el taller</title>
+  </programme>
+  <programme start="20221121042900 -0600" stop="20221121051900 -0600" channel="Canal History (México)">
+    <title lang="es">Desafío sobre fuego LATAM</title>
+  </programme>
+  <programme start="20221121051900 -0600" stop="20221121061000 -0600" channel="Canal History (México)">
+    <title lang="es">Ciudades Ocultas</title>
+  </programme>
+  <programme start="20221121061000 -0600" stop="20221121070000 -0600" channel="Canal History (México)">
+    <title lang="es">Ciudades Ocultas</title>
+  </programme>
+  <programme start="20221121070000 -0600" stop="20221121072400 -0600" channel="Canal History (México)">
+    <title lang="es">Guerra de envíos</title>
+  </programme>
+  <programme start="20221121072400 -0600" stop="20221121074800 -0600" channel="Canal History (México)">
+    <title lang="es">Guerra de envíos</title>
+  </programme>
+  <programme start="20221121074800 -0600" stop="20221121083600 -0600" channel="Canal History (México)">
+    <title lang="es">Locos por los autos</title>
+  </programme>
+  <programme start="20221121083600 -0600" stop="20221121090100 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0 Nueva York</title>
+  </programme>
+  <programme start="20221121090100 -0600" stop="20221121092600 -0600" channel="Canal History (México)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20221121092600 -0600" stop="20221121095100 -0600" channel="Canal History (México)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20221121095100 -0600" stop="20221121104100 -0600" channel="Canal History (México)">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20221121104100 -0600" stop="20221121115600 -0600" channel="Canal History (México)">
+    <title lang="es">Solos Desafío del millón</title>
+  </programme>
+  <programme start="20221121115600 -0600" stop="20221121124800 -0600" channel="Canal History (México)">
+    <title lang="es">Inexplicable Latinoaméric</title>
+  </programme>
+  <programme start="20221121124800 -0600" stop="20221121134000 -0600" channel="Canal History (México)">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20221121134000 -0600" stop="20221121143000 -0600" channel="Canal History (México)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20221121143000 -0600" stop="20221121152000 -0600" channel="Canal History (México)">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20221121152000 -0600" stop="20221121161000 -0600" channel="Canal History (México)">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20221121161000 -0600" stop="20221121170000 -0600" channel="Canal History (México)">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20221121170000 -0600" stop="20221121175000 -0600" channel="Canal History (México)">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20221121175000 -0600" stop="20221121184100 -0600" channel="Canal History (México)">
+    <title lang="es">Gigantes de la comida</title>
+  </programme>
+  <programme start="20221121184100 -0600" stop="20221121193000 -0600" channel="Canal History (México)">
+    <title lang="es">Maravillas Modernas</title>
+  </programme>
+  <programme start="20221121193000 -0600" stop="20221121202000 -0600" channel="Canal History (México)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20221121202000 -0600" stop="20221121211000 -0600" channel="Canal History (México)">
+    <title lang="es">Alienígenas ancestrale</title>
+  </programme>
+  <programme start="20221121211000 -0600" stop="20221121220000 -0600" channel="Canal History (México)">
+    <title lang="es">El secreto de Skinwalker</title>
+  </programme>
+  <programme start="20221121220000 -0600" stop="20221121225000 -0600" channel="Canal History (México)">
+    <title lang="es">Inexplicable con William S</title>
+  </programme>
+  <programme start="20221121225000 -0600" stop="20221121234100 -0600" channel="Canal History (México)">
+    <title lang="es">Inexplicable Latinoaméric</title>
+  </programme>
+  <programme start="20221121234100 -0600" stop="20221122003300 -0600" channel="Canal History (México)">
+    <title lang="es">Extrarrestres</title>
+  </programme>
+  <programme start="20221121010000 -0600" stop="20221121013000 -0600" channel="Canal History en Español">
+    <title lang="es">Gigantes de las máquinas: edición compacta</title>
+  </programme>
+  <programme start="20221121013000 -0600" stop="20221121020000 -0600" channel="Canal History en Español">
+    <title lang="es">Gigantes de las máquinas: edición compacta</title>
+  </programme>
+  <programme start="20221121020000 -0600" stop="20221121023000 -0600" channel="Canal History en Español">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20221121023000 -0600" stop="20221121030000 -0600" channel="Canal History en Español">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20221121030000 -0600" stop="20221121040000 -0600" channel="Canal History en Español">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20221121040000 -0600" stop="20221121050000 -0600" channel="Canal History en Español">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20221121050000 -0600" stop="20221121060000 -0600" channel="Canal History en Español">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20221121060000 -0600" stop="20221121063000 -0600" channel="Canal History en Español">
+    <title lang="es">Shark AI Ultra 2-in-1 Robot - powered by Matrix Clean Navigation</title>
+  </programme>
+  <programme start="20221121063000 -0600" stop="20221121070000 -0600" channel="Canal History en Español">
+    <title lang="es">Proteja su memoria</title>
+  </programme>
+  <programme start="20221121070000 -0600" stop="20221121073000 -0600" channel="Canal History en Español">
+    <title lang="es">Miracle Blade World Class</title>
+  </programme>
+  <programme start="20221121073000 -0600" stop="20221121080000 -0600" channel="Canal History en Español">
+    <title lang="es">Mi Biotina</title>
+  </programme>
+  <programme start="20221121080000 -0600" stop="20221121090000 -0600" channel="Canal History en Español">
+    <title lang="es">Gigantes de las máquinas</title>
+  </programme>
+  <programme start="20221121090000 -0600" stop="20221121093000 -0600" channel="Canal History en Español">
+    <title lang="es">Gigantes de las máquinas: edición compacta</title>
+  </programme>
+  <programme start="20221121093000 -0600" stop="20221121100000 -0600" channel="Canal History en Español">
+    <title lang="es">Gigantes de las máquinas: edición compacta</title>
+  </programme>
+  <programme start="20221121100000 -0600" stop="20221121103000 -0600" channel="Canal History en Español">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20221121103000 -0600" stop="20221121110000 -0600" channel="Canal History en Español">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20221121110000 -0600" stop="20221121120000 -0600" channel="Canal History en Español">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20221121120000 -0600" stop="20221121130000 -0600" channel="Canal History en Español">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20221121130000 -0600" stop="20221121140000 -0600" channel="Canal History en Español">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20221121140000 -0600" stop="20221121150000 -0600" channel="Canal History en Español">
+    <title lang="es">Gigantes de las máquinas</title>
+  </programme>
+  <programme start="20221121150000 -0600" stop="20221121153000 -0600" channel="Canal History en Español">
+    <title lang="es">Gigantes de las máquinas: edición compacta</title>
+  </programme>
+  <programme start="20221121153000 -0600" stop="20221121160000 -0600" channel="Canal History en Español">
+    <title lang="es">Gigantes de las máquinas: edición compacta</title>
+  </programme>
+  <programme start="20221121160000 -0600" stop="20221121163000 -0600" channel="Canal History en Español">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20221121163000 -0600" stop="20221121170000 -0600" channel="Canal History en Español">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20221121170000 -0600" stop="20221121180000 -0600" channel="Canal History en Español">
+    <title lang="es">Extraterrestres de la Antiguedad</title>
+  </programme>
+  <programme start="20221121180000 -0600" stop="20221121190000 -0600" channel="Canal History en Español">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20221121190000 -0600" stop="20221121200000 -0600" channel="Canal History en Español">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20221121200000 -0600" stop="20221121210000 -0600" channel="Canal History en Español">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20221121210000 -0600" stop="20221121220000 -0600" channel="Canal History en Español">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20221121220000 -0600" stop="20221121230000 -0600" channel="Canal History en Español">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20221121230000 -0600" stop="20221122000000 -0600" channel="Canal History en Español">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20221121000700 -0600" stop="20221121015800 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Verano Rojo de 1919</title>
+  </programme>
+  <programme start="20221121015800 -0600" stop="20221121025400 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Alerta Aeropuerto Madrid</title>
+  </programme>
+  <programme start="20221121025400 -0600" stop="20221121034100 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20221121034100 -0600" stop="20221121043000 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Gordon Ramsay</title>
+  </programme>
+  <programme start="20221121043000 -0600" stop="20221121051400 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Como lo hace la Tribú</title>
+  </programme>
+  <programme start="20221121051400 -0600" stop="20221121060200 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20221121060200 -0600" stop="20221121065000 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20221121065000 -0600" stop="20221121071200 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20221121071200 -0600" stop="20221121073700 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20221121073700 -0600" stop="20221121080000 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20221121080000 -0600" stop="20221121082700 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20221121082700 -0600" stop="20221121085500 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20221121085500 -0600" stop="20221121092200 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20221121092200 -0600" stop="20221121095000 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20221121095000 -0600" stop="20221121101900 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20221121101900 -0600" stop="20221121111000 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20221121111000 -0600" stop="20221121120500 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Alerta Aeropuerto Madrid</title>
+  </programme>
+  <programme start="20221121120500 -0600" stop="20221121123200 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20221121123200 -0600" stop="20221121130000 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20221121130000 -0600" stop="20221121132900 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20221121132900 -0600" stop="20221121142400 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Gordon Ramsay sabores extremos</title>
+  </programme>
+  <programme start="20221121142400 -0600" stop="20221121151500 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Salvajemente famosos</title>
+  </programme>
+  <programme start="20221121151500 -0600" stop="20221121160900 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Los Nuevos Pioneros</title>
+  </programme>
+  <programme start="20221121160900 -0600" stop="20221121170800 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Hogar para perros</title>
+  </programme>
+  <programme start="20221121170800 -0600" stop="20221121180400 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Los más raros caras extrañas</title>
+  </programme>
+  <programme start="20221121180400 -0600" stop="20221121190000 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Ciudades Perdidas con Albert</title>
+  </programme>
+  <programme start="20221121190000 -0600" stop="20221121195800 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Tesoros Perdidos de Egipto</title>
+  </programme>
+  <programme start="20221121195800 -0600" stop="20221121210300 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Ballenas Testigos del Mar</title>
+  </programme>
+  <programme start="20221121210300 -0600" stop="20221121220000 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Alerta Aeropuerto Madrid</title>
+  </programme>
+  <programme start="20221121220000 -0600" stop="20221121230000 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Contrabandistas con Mariana V</title>
+  </programme>
+  <programme start="20221121230000 -0600" stop="20221121235700 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">En primera persona</title>
+  </programme>
+  <programme start="20221121235700 -0600" stop="20221122005300 -0600" channel="Canal National Geographic (México)">
+    <title lang="es">Preso en el extranjero</title>
+  </programme>
+  <programme start="20221121014300 -0600" stop="20221121032700 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">Resident Evil: Capítulo Final</title>
+  </programme>
+  <programme start="20221121032700 -0600" stop="20221121052300 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">Triple 9</title>
+  </programme>
+  <programme start="20221121052300 -0600" stop="20221121054500 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20221121054500 -0600" stop="20221121062900 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">Riverdale</title>
+  </programme>
+  <programme start="20221121062900 -0600" stop="20221121070000 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">Mom</title>
+  </programme>
+  <programme start="20221121070000 -0600" stop="20221121074600 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">Riverdale</title>
+  </programme>
+  <programme start="20221121074600 -0600" stop="20221121080800 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">Mom</title>
+  </programme>
+  <programme start="20221121080800 -0600" stop="20221121083100 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20221121083100 -0600" stop="20221121085400 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20221121085400 -0600" stop="20221121091700 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20221121091700 -0600" stop="20221121094000 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20221121094000 -0600" stop="20221121100100 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20221121100100 -0600" stop="20221121102600 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20221121102600 -0600" stop="20221121105000 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20221121105000 -0600" stop="20221121121600 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">Surf's up</title>
+  </programme>
+  <programme start="20221121121600 -0600" stop="20221121135800 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">Nancy Drew y la escalera</title>
+  </programme>
+  <programme start="20221121135800 -0600" stop="20221121154300 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">Matilda</title>
+  </programme>
+  <programme start="20221121154300 -0600" stop="20221121160900 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20221121160900 -0600" stop="20221121163600 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20221121163600 -0600" stop="20221121170100 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">Naruto</title>
+  </programme>
+  <programme start="20221121170100 -0600" stop="20221121172900 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">Dragon Ball Super</title>
+  </programme>
+  <programme start="20221121172900 -0600" stop="20221121195800 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">H. Potter y el prisionero</title>
+  </programme>
+  <programme start="20221121195800 -0600" stop="20221121223500 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">Wonder Woman</title>
+  </programme>
+  <programme start="20221121223500 -0600" stop="20221121230000 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">Young Sheldon</title>
+  </programme>
+  <programme start="20221121230000 -0600" stop="20221122005900 -0600" channel="Canal Warner TV (México)">
+    <title lang="es">Jack the Giant Slayer</title>
+  </programme>
+</tv>
